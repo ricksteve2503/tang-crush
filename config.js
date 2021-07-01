@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'No, are you dreaming ?',
     question:'Pick a number to show me your love',
     btnReply: 'Enter ',
-    reply: '',
+    reply: '100',
     mess: 'Opps, sorry but my love for you is uncountalble :3',
     messDesc: 'Hope you have a great time and i just wanna see you smile, angel :3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100009498795540',
+    messLink: 'https://www.facebook.com/profile.php?id=100009498795540
 }
