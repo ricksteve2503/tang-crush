@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Do you love me ? ',
     btnYes: 'Yesssssssss <33',
     btnNo: 'No, are you dreaming ?',
-    question:'Pick a number to show me your love',
+    question:'Pick a number to show me how much you love me',
     btnReply: 'Enter ',
     reply: '100',
     mess: 'Opps, sorry but my love for you is uncountalble :3',
